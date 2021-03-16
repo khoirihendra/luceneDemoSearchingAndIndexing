@@ -1,0 +1,87 @@
+Pusat Inovasi Kecerdasan Artifisial, Langkah Kongkret Menuju Indonesia Cerdas dan Mandiri dalam Berbagai Bidang Teknologi
+
+Tanggal 21 Januari 2021 adalah tanggal cantik dimana BPPT dengan tak kalah cantik dan ciamik telah memantik sebuah perubahan besar di jagad peradaban yang menandai diawalinya revolusi ilmu pengetahuan dan teknologi. Apakah gerangan sang pemantik itu ? Tak lain dan tak bukan adalah sebuah center of excellent baru yang akan secara khusus mengurusi dan membidani lahirnya peradaban berbasis kecerdasan artifisial di berbagai sektor yang beririsan dengan teknologi di Indonesia. Pada hari Kamis 21 Januari 2021 BPPT secara resmi meluncurkan PIKA, Pusat Inovsi Kecerdasan Artifisial.
+
+ 
+
+Kepala Badan Pengkajian dan Penerapan Teknologi (BPPT) Hammam Riza dalam penjelasannya secara daring mengatakan bahwa PIKA merupakan wadah bagi semua unsur quad helix yaitu Pemerintah, Industri, Akademisi, dan Komunitas dalam berkolaborasi pada riset dan inovasi KA dengan memaksimalkan seluruh sumber daya riset dan  inovasi nasional. Demikian penjelasan Dr Hammam Riza yang dikutip Media Indonesia.
+
+ 
+
+"PIKA sendiri bersifat terbuka, partisipatif, berbasis nilai (value-based synergy), demand-driven, mandiri, serta memiliki tata kelola yang adaptif dan lincah," demikian rinci  Hammam, masih di media yang sama.
+
+ 
+
+Dalam kesempatan tersebut juga diluncurkan berbagai bentuk implementasi kecerdasan artifisial dalam ranah mitigasi kebencanaan. Optimasi implementasi kecerdasan artifisial atau kerap disingkat KA dalam bidang kebencanaan telah dilakukan dalam sistem analisis dan DSS (decision support system) untuk mengantisipasi tsunami dan kebakaran hutan dan lahan (Karhutla).
+
+ 
+
+Ketersediaan data dari sistem INA-Tews (Indonesia Tsunami Early Warning System) yang juga dikembangkan oleh BPPT bekerjasama dengan BMKG dan beberapa lembaga terkait, profil dan karakter gempa, serta data histori dari berbagai pola gempa dan tsunami yang pernah terjadi, akan menjadi modal belajar bagi sistem KA di PEKA BPPT untuk mengolah, menyajikan, dan menyarankan pengambilan keputusan yang bersifat cepat dan akurat dengan karakter cermat dan tepat.
+
+ 
+
+Demikian pula pada penanganan Karhutla dan mitigasi bencana bersumber dari dinamika cuaca, semua data berpola dapat dipelajari oleh KA dan membantu respon serta sistem pengambilan keputusan, sehingga keluaran yang didapatkan diharap tepat, cepat, serta mampu mengefektifkan semua lini operasi terkait proses mitigasi, evakuasi, dan antisipasi (prevensi).
+
+ 
+
+Tak hanya itu saja, melalui Task Force Riset dan Inovasi untuk Penanganan Covid-19 (TFRIC-19), BPPT juga telah menginisiasi pemanfaatan KA dalam bidang kesehatan, khususnya dalam upaya peningkatan akurasi diagnosis pada penderita Covid. Ke depan tentu saja integrasi lintas disiplin yang melibatkan berbagai keahlian dan kemampuan rekayasa seperti bioinformatika, Otomasi/robotika, genetika molekuler, farmakologi dll dapat melahirkan banyak terobosan inovatif yang bermuara pada peningkatan kualitas hidup manusia Indonesia.
+
+ 
+
+Sintesa antara kemajuan di bidang teknologi hayati dengan ilmu materi, fisika, dan kimia, serta tentu saja informatika& komputasi, akan melahirkan suatu revolusi baru dalam peradaban manusia.
+
+ 
+
+Rumpun bioinformatika dengan ranah riset in-siliconya, dengan mesin analisis utama berbasis kecerdasan artifisial dapat menghasilkan produk super metakognisi yang dapat menjadi modal utama proses migrasi digital total.
+
+ 
+
+Transisi diawali dari precision dan personalized medicine dengan kemampuan untuk merekayasa level genetika. Tahap selanjutnya  adalah materi genetika, sel, jaringan, dan organ artifisial. Lalu tahap berikutnya kehidupan artifisial berbasis digital.
+
+ 
+
+Konsep penubuhan dalam sangkar materi berkonsekuensi mengonsumsi energi tinggi. Maka solusi berbasis teknologi yang paling realistis adalah menciptakan platform neo bumi yang sepenuhnya digital, dimana entitas manusia adalah identitas yang terbebas dari unit fisik yang memerluan ruang dan waktu.
+
+ 
+
+Dunia nyata akan kembali lestari, dan konsumsi energi yang digunakan di dunia hiper realitas atau jagad anyar hanya akan berasal dari sumber terbarukan yg menggabungkan reaksi fusi dan fisi, hidrogen, angin, gelombang, dan perbedaan salinitas samudera.
+
+ 
+
+Tubuh2 kita yang mengalami fase rudimenter kemungkinan besar bahkan tidak seutuh saat ini. Hanya sekumpulan neuron, yg bahkan bisa digantikan oleh jaringan neuromorfik seperti dalam konsep spiNNaker, dan dengan next generation AutoML maka proses kognisi berafeksi dengan actuator motorik berupa engine mekatronik dapat membangun sebuah dunia baru.
+
+ 
+
+Jika kecerdasan sebagai penggerak berkesinambungan dari sistem yg dibangun mengadopsi cloud auto ML dan no code AI maka pengetahuannya akan bertumbuh secara eksponensial, dan kita akan sepenuhnya berada dalam fase otomasi kognisi. Lalu kembali sebuah pertanyaan fundamental dari semenjak zaman manusia hadir di bumi menyeruak, siapakah sesungguhnya kita?
+
+ 
+
+Kembali berbicara di ranah aplikatif yang visible untuk dikaji dan diterapkan dalam jangka pendek dan menengah adalah pensubstitusian beberapa tugas manusia yang memiliki probabilitas kesalahan cukup tinggi oleh sistem KA yang lebih presisi dan efektif dari sisi operasi.
+
+ 
+
+Pada tahapan implementatif sistem kecerdasan artifisial dan fungsi kontrol yang semakin baik dapat melakukan banyak tugas yang selama ini dilakukan manusia. Bahkan dengan zero tolerance dalam hal error dan compliance. Mulai dari pekerjaan mekanistik yang relatif bersifat deterministik, sampai ke hal2 yg dahulu diklaim sebagai domain tak tergantikan manusia, kemampuan berestetika, bahkan mungkin juga beretorika yg bahkan mungkin akan lebih handal dari seorang Marcus Tullius alias Cicero. Karena Cicero, Marthin Luther King, sampai Obama akan "disedot" isi pikiran dan pola lingusitiknya lewat NLP.
+
+ 
+
+Bahkan saat ini Google sudah menawarkan API natural language untuk mengekstrak insight dari sebuah pembicaraan. Secara citra, bahkan dalam bentuk motion video dapat direkayasa. Jika data sensoris bisa diekstrak dan diremodeling, maka data kognitif berupa proses dan algoritma berpikir juga dapat direplikasi, bahkan diaugmentasi dengan proses akusisi data dan learning dengan proses nyaris tiada batas.
+
+ 
+
+SpiNNaker nya Steve Furber dari Manchester contohnya. Paralelitas super komputer berganda dengan fungsi sinaptik neuronal dalam komunikasi fungsionalnya, dapat dibayangkan akan memiliki daya olah data sedahsyat apa bukan? Distribusi komputasi secara paralel yang terkanalisasi melalui konstruksi struktur fungsi connectome like akan menghasilkan very very deep understanding learning capacity.
+
+ 
+
+Akan lahir generasi super computing bergenre deep mind dan juga mungkin deep mind fake seperti tokoh Winston dalam "Origin", novel fiksi terbaru dari penulis Da Vinci Code, Dan Brown. Winston itu sejenis tokoh virtual dengan kecerdasan nyaris tak terbatas yang kemudian ternyata melahirkan aspek afektif di sisi kepribadiannya. Emosi dan embrio kesadaran yang melampaui batasan modeling yang terkuantifikasi.
+
+ 
+
+Jika kesadaran adalah akumulasi spektral dari semua fungsi mental atau psikobiologis, maka pada akhirnya memang sekumpulan sensor, prosesor, dan actuator kemungkinan besar juga akan mengalami evolusi kesadaran. Kesadaran yang lahir dari kompleksitas kemampuan mental, yang bahkan dapat ditunjukkan oleh spesies bersel tunggal yang cerdas dan adaptif, Physarum Polycephalum sp.
+
+ 
+
+Maka jika saat ini engine belajar mengenali pola citra radiografi dan membantu menegakkan diagnosa berdasar pelatihan dengan data set multi varian yang telah direkamnya dalam sistem pengenalan, juga membuat kopi, dan menjadi penjaga toko seperti di toko New Normal nya Amazon Go yang diberi nama Just Walk Out Shopping, dimana semua prosedurnya terukur dengan indikator objektif-kuantitatif dan bersifat replikatif, maka itu relatif dapat dikatakan masih di awal jalan dari revolusi kecerdasan artifisial yang sebenarnya.
+
+ 
+
+Semoga dengan penerapan KA yang terukur di berbagai bidang secara sistematik dan terstruktur, bangsa Indonesia dapat bangkit dan berdikari, mandiri secara teknologi serta menjadi negara kuat yang disegani.
